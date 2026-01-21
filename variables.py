@@ -23,3 +23,18 @@ dash = "-"
 long_dash = dash * 100
 
 print(long_dash)
+
+
+name = "Dave"
+
+greeting = f"Hello My Name is {name}"
+
+print(greeting)
+
+
+name = "gaurav"
+
+
+print(name.upper())
+print(name.lower())
+print(name.title())
